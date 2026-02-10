@@ -76,7 +76,7 @@ export function About() {
           {/* Stats */}
           <div className="grid grid-cols-2 gap-6">
             <div className="bg-gradient-to-br from-purple-900/30 to-slate-900 p-6 rounded-2xl border border-purple-500/20 hover:border-purple-500/50 transition-all">
-              <div className="text-4xl font-bold text-purple-400 mb-2">4+</div>
+              <div className="text-4xl font-bold text-purple-400 mb-2">2.4</div>
               <div className="text-gray-400">Years Experience</div>
             </div>
             <div className="bg-gradient-to-br from-pink-900/30 to-slate-900 p-6 rounded-2xl border border-pink-500/20 hover:border-pink-500/50 transition-all">
@@ -88,7 +88,7 @@ export function About() {
               <div className="text-gray-400">AI Projects</div>
             </div>
             <div className="bg-gradient-to-br from-cyan-900/30 to-slate-900 p-6 rounded-2xl border border-cyan-500/20 hover:border-cyan-500/50 transition-all">
-              <div className="text-4xl font-bold text-cyan-400 mb-2">5+</div>
+              <div className="text-4xl font-bold text-cyan-400 mb-2">5</div>
               <div className="text-gray-400">Companies</div>
             </div>
           </div>
